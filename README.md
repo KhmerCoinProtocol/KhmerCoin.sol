@@ -1,0 +1,1 @@
+# KhmerCoin.sol
